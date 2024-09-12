@@ -3,12 +3,12 @@
     {
       "id": "1",
       "name": "Стул старинный",
-      "description": "Очень красивый",
-      "price": 2000,
+      "description": "Очень красивый!!!",
+      "price": "2040",
       "createdAt": "2022-08-12T20:16:55.351Z",
       "views": 20,
       "likes": 2,
-      "imageUrl": ""
+      "imageUrl": "/images/chairAntique.webp"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "createdAt": "2023-08-12T20:16:55.351Z",
       "views": 77832,
       "likes": 45666,
-      "imageUrl": ""
+      "imageUrl": "/images/bucketSnow.webp"
     },
     {
       "id": "3",
@@ -27,7 +27,7 @@
       "createdAt": "2024-08-12T20:16:55.351Z",
       "views": 900,
       "likes": 19,
-      "imageUrl": ""
+      "imageUrl": "/images/invisibilityCloak.webp"
     },
     {
       "id": "4",
@@ -37,7 +37,7 @@
       "createdAt": "2024-07-12T20:16:55.351Z",
       "views": 2000000,
       "likes": 2,
-      "imageUrl": ""
+      "imageUrl": "/images/carpet.webp"
     },
     {
       "id": "5",
@@ -46,7 +46,7 @@
       "createdAt": "2024-06-12T20:16:55.351Z",
       "views": 0,
       "likes": 0,
-      "imageUrl": ""
+      "imageUrl": "/images/socks.webp"
     },
     {
       "id": "6",
@@ -56,7 +56,7 @@
       "createdAt": "2024-04-12T20:16:55.351Z",
       "views": 1,
       "likes": 0,
-      "imageUrl": ""
+      "imageUrl": "/images/box.webp"
     },
     {
       "id": "7",
@@ -66,7 +66,7 @@
       "createdAt": "2024-08-12T14:16:55.351Z",
       "views": 20000,
       "likes": 1,
-      "imageUrl": ""
+      "imageUrl": "/images/sofa.webp"
     },
     {
       "id": "8",
@@ -75,13 +75,13 @@
       "createdAt": "2024-08-12T12:16:55.351Z",
       "views": 200000,
       "likes": 302,
-      "imageUrl": ""
+      "imageUrl": "/images/iphone.webp"
     }
   ],
   "orders": [
     {
       "id": "1",
-      "status": 0,
+      "status": 2,
       "createdAt": "2024-08-12T20:20:55.351Z",
       "finishedAt": "",
       "total": 314000,
@@ -94,7 +94,7 @@
           "createdAt": "2024-08-12T12:16:55.351Z",
           "views": 200000,
           "likes": 302,
-          "imageUrl": "",
+          "imageUrl": "/images/iphone.webp",
           "count": 3
         },
         {
@@ -105,14 +105,14 @@
           "createdAt": "2024-04-12T20:16:55.351Z",
           "views": 1,
           "likes": 0,
-          "imageUrl": "",
+          "imageUrl": "/images/box.webp",
           "count": 2
         }
       ]
     },
     {
       "id": "2",
-      "status": 4,
+      "status": 2,
       "createdAt": "2024-08-12T20:20:55.351Z",
       "finishedAt": "2024-08-12T20:25:55.351Z",
       "total": 33000,
@@ -126,7 +126,7 @@
           "createdAt": "2023-08-12T20:16:55.351Z",
           "views": 77832,
           "likes": 45666,
-          "imageUrl": "",
+          "imageUrl": "/images/bucketSnow.webp",
           "count": 10
         },
         {
@@ -136,7 +136,7 @@
           "createdAt": "2024-06-12T20:16:55.351Z",
           "views": 0,
           "likes": 0,
-          "imageUrl": "",
+          "imageUrl": "/images/socks.webp",
           "count": 5
         }
       ]
