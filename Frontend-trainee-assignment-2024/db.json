@@ -81,7 +81,7 @@
   "orders": [
     {
       "id": "1",
-      "status": 2,
+      "status": 3,
       "createdAt": "2024-08-12T20:20:55.351Z",
       "finishedAt": "",
       "total": 314000,
